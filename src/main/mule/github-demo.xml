@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mule xmlns="http://www.mulesoft.org/schema/mule/core" xmlns:doc="http://www.mulesoft.org/schema/mule/documentation"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd">
+	<flow name="github-demoFlow" doc:id="36e6007b-96bd-4309-a3cf-2ab83a863274" >
+		<logger level="INFO" doc:name="Logger" doc:id="465d7a1d-9f89-4a6f-bafb-b7de23847974" message="Initial commit to Git from Anypoint Studio EGit plugin."/>
+	</flow>
+</mule>
